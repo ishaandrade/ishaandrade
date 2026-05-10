@@ -2,7 +2,7 @@
 <br>
 🔭 I’m currently working on building Neural Networks from scratch and redesigning my portfolio website.<br>
 📖 I’m currently learning about different Machine Learning models and vanilla frontend concepts.<br>
-🌟 **Current goals:**
+🌟 Current goals:
 
 - Build a vanilla frontend project(s)
 - Learn the basics of React
